@@ -7,4 +7,4 @@ This guide is split into many sections, please select your console below
 
 [Xbox One/Series](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/xbox/README.md)
 
-[PS4/5]()
+[PS4/5](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/playstation/README.md)
