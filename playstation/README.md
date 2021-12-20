@@ -4,8 +4,8 @@ Note: I do not own a playstation, thus I can not test any of these guides, so th
 
 ### All Guides
 
-[DNS Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/playstation/DNS.md)
+[DNS Method](playstation/DNS.md)
 
-[Mobile Device Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/playstation/MOBILE.md)
+[Mobile Device Method](playstation/MOBILE.md)
 
-[Computer Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/playstation/COMPUTER.md)
+[Computer Method](playstation/COMPUTER.md)

@@ -32,4 +32,4 @@ This method may not always work! If you have any issues, please [check the Bedro
 
 And we are done! From here you should be able to set up custom server addresses to connect to
 
-![Screenshot](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/serverlist.png)
+![Screenshot](serverlist.png)
