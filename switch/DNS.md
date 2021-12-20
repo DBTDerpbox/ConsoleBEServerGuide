@@ -10,7 +10,7 @@ This method requires you to edit your networking settings, if you have parental 
 
 3. Select the network you are currently connected to
 
-4. Selecct `Change Settings`
+4. Select `Change Settings`
 
 5. Set your DNS mode to Manual
 
