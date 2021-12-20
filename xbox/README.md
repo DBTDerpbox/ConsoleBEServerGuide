@@ -2,8 +2,8 @@
 
 ### All Guides
 
-[DNS Method](xbox/DNS.md)
+[DNS Method](DNS.md)
 
-[Mobile Device Method](xbox/MOBILE.md)
+[Mobile Device Method](MOBILE.md)
 
-[Computer Method](xbox/COMPUTER.md)
+[Computer Method](COMPUTER.md)
