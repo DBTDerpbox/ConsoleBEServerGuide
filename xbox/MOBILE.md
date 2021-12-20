@@ -6,7 +6,9 @@ There are a few apps available, here is a list:
 
 ## Android
 [MC Lan Proxy (Trial version)](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroidtrial)
+
 [MC Lan Proxy (Paid version)](https://play.google.com/store/apps/details?id=com.luzenna.mineproxydroid)
+
 [MC Server Connector (Currently broken!)](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector)
 
 ## iOS
