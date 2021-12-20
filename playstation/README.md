@@ -4,8 +4,8 @@ Note: I do not own a playstation, thus I can not test any of these guides, so th
 
 ### All Guides
 
-[DNS Method](playstation/DNS.md)
+[DNS Method](DNS.md)
 
-[Mobile Device Method](playstation/MOBILE.md)
+[Mobile Device Method](MOBILE.md)
 
-[Computer Method](playstation/COMPUTER.md)
+[Computer Method](COMPUTER.md)

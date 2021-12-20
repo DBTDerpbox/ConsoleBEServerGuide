@@ -2,8 +2,8 @@
 
 ### All Guides
 
-[DNS Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/xbox/DNS.md)
+[DNS Method](xbox/DNS.md)
 
-[Mobile Device Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/xbox/MOBILE.md)
+[Mobile Device Method](xbox/MOBILE.md)
 
-[Computer Method](https://github.com/DBTDerpbox/ConsoleBEServerGuide/blob/main/xbox/COMPUTER.md)
+[Computer Method](xbox/COMPUTER.md)
