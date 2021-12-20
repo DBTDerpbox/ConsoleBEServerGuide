@@ -12,4 +12,4 @@ There are a few apps available, here is a list:
 [MC Server Connector (Currently broken!)](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector)
 
 ## iOS
-[BedrockTogether](https://apps.apple.com/app/bedrocktogether/id1534593376) *Note, this require iOS 14 or higher!*
+[BedrockTogether](https://apps.apple.com/app/bedrocktogether/id1534593376) *Note, this requires iOS 14 or higher!*
