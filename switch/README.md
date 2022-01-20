@@ -1,6 +1,6 @@
 # Nintendo Switch Guides
 
-Note: There is only one method that works currenty, it is the DNS Method.
+Note: There is only one method that works currently, it is the DNS Method.
 
 ### All Guides
 
